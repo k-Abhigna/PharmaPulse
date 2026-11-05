@@ -1,0 +1,8 @@
+model,wape_pct,bias_pct,wape_all_weeks_pct
+gbm+clean,10.93,-0.65,14.77
+gbm,11.34,-0.35,15.2
+ets+clean,13.62,-1.82,17.3
+moving_avg_4,16.41,0.8,19.78
+ets,17.19,-3.47,20.87
+seasonal_naive,18.43,-4.92,21.94
+naive,18.45,-1.33,21.68

@@ -1,0 +1,9 @@
+therapy_class,ets,ets+clean,gbm,gbm+clean,moving_avg_4,naive,seasonal_naive
+Analgesic,17.2,13.3,11.0,10.6,13.9,17.4,18.7
+Antibiotic,17.0,14.1,12.3,11.6,18.2,19.3,17.6
+Antihistamine,17.1,13.4,12.6,12.5,17.8,20.9,18.0
+Chronic,17.9,13.2,10.2,9.9,12.8,16.4,20.6
+Gastro,15.2,13.6,11.6,11.0,29.4,28.5,16.1
+Rehydration,15.1,14.6,13.0,12.4,22.4,17.9,14.2
+Respiratory,19.0,13.1,11.4,10.5,17.9,22.4,14.5
+Supplement,18.8,14.9,12.0,11.7,13.6,15.0,19.5
